@@ -1,0 +1,4 @@
+[OK]-6018-programacion-orientada-a-objetos 
+[OK]-6021-probabilidad-y-estadisticas
+[OK]-6029-investigacion-operativa 
+[OK]-6038-programacion-concurrente-y-paralela
